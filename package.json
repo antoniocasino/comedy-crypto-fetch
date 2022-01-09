@@ -1,0 +1,21 @@
+{
+  "name": "comedy-test",
+  "version": "1.0.0",
+  "description": "example for comedy.js",  
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "comedy",
+    "actoryModel",
+    "js"
+  ],
+  "author": "antonio casino",
+  "license": "ISC",
+  "dependencies": {
+    "comedy": "^2.1.5",
+    "node-fetch": "^2.0.0"
+  }
+}

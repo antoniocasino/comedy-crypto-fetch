@@ -1,0 +1,6 @@
+{    
+    "PriceRequestorActor": {
+        "mode": "threaded",
+        "clusterSize": 3
+    }
+}
